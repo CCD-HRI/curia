@@ -75,6 +75,9 @@ venv/
 python_env/
 ENV/
 
+# config and credentials
+aws/
+
 # mkdocs documentation
 /site
 
